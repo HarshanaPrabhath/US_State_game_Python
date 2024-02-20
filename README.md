@@ -1,10 +1,12 @@
 # US States Guessing Game
 
-This Python script implements a simple game where users guess the names of US states interactively using the Turtle graphics library. The game provides a graphical interface using the Turtle module and utilizes data from a CSV file containing information about the US states.
+⚡This Python script implements a simple game where users guess the names of US states interactively using the Turtle graphics library. The game provides a graphical interface using the Turtle module and utilizes data from a CSV file containing information about the US states.
 
 ## Libraries
-- turtle
-- pandas
+- turtle ✔
+- pandas ✔
+
+![us_states](https://github.com/HarshanaPrabhath/US_State_game_Python/assets/132127313/eabe873d-2218-46ea-8bf3-b703f473b0ae)
 
 ### Usage
 1. Follow the prompts to guess the names of the US states.
