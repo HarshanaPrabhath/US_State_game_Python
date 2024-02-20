@@ -14,7 +14,7 @@
 3. To exit the game at any time, type "Exit" when prompted for a state name.
 4. After exiting, the script will generate a CSV file named `to_learn.csv` containing the names of the states that were not guessed correctly.
 
-###⚡⚡ How It Works
+## How It Works
 - The script reads the `50_states.csv` file, which contains data about the US states including their names and coordinates.
 - It initializes a Turtle screen and sets a background image of the US map.
 - Users are prompted to guess the names of the US states. The game keeps track of correct guesses and displays them on the map.
